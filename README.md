@@ -1,6 +1,6 @@
 🚀 Project Title
 
-A brief description of what this project does and why it exists.
+A brief description of what this project does and why it exists...
 
 📖 Overview
 
