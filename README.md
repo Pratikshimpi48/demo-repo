@@ -81,3 +81,7 @@ Your Name
 Email: yourname@example.com
 
 GitHub: https://github.com/yourusername
+
+
+## Local Developement 
+1. Open index.html in your browser 
